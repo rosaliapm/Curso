@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Creo el archivo. Modifico el archivo localmente.
+=======
+Creo el archivo. Edito el archivo por el editor de GitHub.
+>>>>>>> 4b0817e0748f43a07dcdc24fe281b4a7c418ae5e
+
+He solucionado el conflicto.
