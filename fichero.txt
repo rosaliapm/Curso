@@ -1,1 +1,1 @@
-Fichero en rama 1.
+Fichero en rama 1. Añado el fichero a la rama 2.
